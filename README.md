@@ -2,7 +2,7 @@
 
 一个本地实现的 macOS 菜单栏小工具：**记住每个「显示器组合」下的窗口布局，屏幕睡醒/显示器接回来之后，把窗口放回原处。**
 
-> 💡 它可以良好地兼容 (TabGroups)[https://github.com/VaJoy/TabGroups]，一起提供优秀的 Mac 窗口体验。
+> 💡 它可以良好地兼容 [TabGroups](https://github.com/VaJoy/TabGroups)，一起提供优秀的 Mac 窗口体验。
 
 ---
 
